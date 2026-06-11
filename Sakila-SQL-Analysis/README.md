@@ -50,7 +50,7 @@ Examined international customer distribution using customer, address, city, and 
 
 ## Query 1: Actor Film Analysis
 
-![Actor Analysis](query-1-actor-analysis.png)
+![Actor Analysis](actor-film-counts.png.png)
 
 ## Query 2: Store Inventory Analysis
 
