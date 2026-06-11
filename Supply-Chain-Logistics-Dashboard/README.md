@@ -35,22 +35,25 @@ Calculated shipment distribution percentages to compare Air, Air Charter, Ocean,
 
 ## Tableau Techniques Demonstrated
 
-Geographic Mapping
-Treemaps
-Scatter Plots
-Bar Charts
-Pie Charts
-Calculated Fields
-Interactive Dashboard Design
+- Geographic Mapping
+- Treemaps
+- Scatter Plots
+- Bar Charts
+- Pie Charts
+- Calculated Fields
+- Interactive Dashboard Design
 
 ## Skills Demonstrated
 
-Data Visualization
-Supply Chain Analytics
-Logistics Analysis
-Business Intelligence
-Dashboard Development
-Geographic Analysis
-KPI Reporting
-Data Storytelling
+- Data Visualization
+- Supply Chain Analytics
+- Logistics Analysis
+- Business Intelligence
+- Dashboard Development
+- Geographic Analysis
+- KPI Reporting
+- Data Storytelling
 
+## Tableau Dashboard
+
+![Tableau Dashboard](Tableau-dashboard.png)
