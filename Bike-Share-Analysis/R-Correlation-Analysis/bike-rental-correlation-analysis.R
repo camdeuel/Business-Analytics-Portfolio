@@ -1,5 +1,4 @@
 #Overall Correlation Analysis
-
 dataset <- subset(BikesData, select = c(OverallTotal, PreregisteredTotal, NotPreregisteredTotal, Windspeed, Humidity, TempF))
 corrplot(cor(dataset), tl.col = "goldenrod")
 
